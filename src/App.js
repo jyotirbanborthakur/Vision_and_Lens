@@ -2,7 +2,7 @@ import './App.css';
 import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
 import About from './Components/About';
 import Navbar from './Components/Navbar';
-import Textform from './Components/Textform';
+import Textform from './Components/Textform'; 
 import { useState } from 'react';
 import Alert from './Components/Alert';
 function App() {
