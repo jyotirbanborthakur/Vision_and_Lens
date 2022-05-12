@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NewsApp/static/css/main.073c9b0a.css",
-    "main.js": "/NewsApp/static/js/main.a6e1ffd5.js",
-    "static/js/787.f3d7924f.chunk.js": "/NewsApp/static/js/787.f3d7924f.chunk.js",
-    "index.html": "/NewsApp/index.html",
-    "main.073c9b0a.css.map": "/NewsApp/static/css/main.073c9b0a.css.map",
-    "main.a6e1ffd5.js.map": "/NewsApp/static/js/main.a6e1ffd5.js.map",
-    "787.f3d7924f.chunk.js.map": "/NewsApp/static/js/787.f3d7924f.chunk.js.map"
+    "main.css": "/Vision_and_Lens/static/css/main.073c9b0a.css",
+    "main.js": "/Vision_and_Lens/static/js/main.2446ad43.js",
+    "static/js/787.f3d7924f.chunk.js": "/Vision_and_Lens/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/Vision_and_Lens/index.html",
+    "main.073c9b0a.css.map": "/Vision_and_Lens/static/css/main.073c9b0a.css.map",
+    "main.2446ad43.js.map": "/Vision_and_Lens/static/js/main.2446ad43.js.map",
+    "787.f3d7924f.chunk.js.map": "/Vision_and_Lens/static/js/787.f3d7924f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a6e1ffd5.js"
+    "static/js/main.2446ad43.js"
   ]
 }
