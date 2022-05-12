@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jyotirbanborthakur.github.io/Vision_and_Lens",
   "name": "first-app",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,8 @@
     "homepage": "https://jyotirbanborthakur.github.io/first-react-app"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
